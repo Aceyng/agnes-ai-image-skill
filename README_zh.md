@@ -33,11 +33,6 @@
 如果你的电脑上安装了 Node.js 和 npm，可以用一行命令安装：
 
 ```bash
-npx skills add <你的用户名>/<你的仓库名>
-```
-
-例如：
-```bash
 npx skills add Aceyng/agnes-ai-image-skill
 ```
 
