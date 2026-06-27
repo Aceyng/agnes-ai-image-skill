@@ -31,11 +31,6 @@ Choose one of the following methods:
 #### Method 1: One-Click Install (Recommended, requires Node.js)
 
 ```bash
-npx skills add <your-username>/<your-repo-name>
-```
-
-For example:
-```bash
 npx skills add Aceyng/agnes-ai-image-skill
 ```
 
